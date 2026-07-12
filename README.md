@@ -145,9 +145,11 @@ LLM-powered platform for business diagnostics, simulations, and automated report
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainam-jain-746188263)
-[![Email](https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainamjain1116@gmail.com)
+[![Email](https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jainamjain1116@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jain44.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jain44)
+
+📧 jainamjain1116@gmail.com
 
 </div>
 
