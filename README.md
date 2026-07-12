@@ -50,7 +50,7 @@ const jainam = {
 ### ⚖️ JusticeAI
 Multilingual web app bridging India's legal access gap with citizen-facing guidance in native languages.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jain44&repo=JusticeAI&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=jain44&repo=JusticeAI&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" />
 
 | Layer | Technology |
 |---|---|
@@ -65,7 +65,7 @@ Multilingual web app bridging India's legal access gap with citizen-facing guida
 ### 🛡️ Kavach — MSME Early Warning Default Prediction System
 Production-grade early warning system predicting defaults in Micro, Small, and Medium Enterprises, built for IDBI Innovate 2026. Implements a calibrated ML scoring backend with SHAP explainability, a React SPA dashboard, and a persistent PostgreSQL data layer.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jain44&repo=kavach&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=jain44&repo=kavach&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" />
 
 | Layer | Technology |
 |---|---|
@@ -80,7 +80,7 @@ Production-grade early warning system predicting defaults in Micro, Small, and M
 ### 🤖 Agentic AI Business Strategy Simulator
 LLM-powered platform for business diagnostics, simulations, and automated reporting.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jain44&repo=ai-agentic-business-strategy-simulator&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=jain44&repo=ai-agentic-business-strategy-simulator&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" />
 
 | Layer | Technology |
 |---|---|
@@ -120,8 +120,8 @@ LLM-powered platform for business diagnostics, simulations, and automated report
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jain44&show_icons=true&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jain44&layout=compact&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" width="35%" />
+<img src="https://github-stats-extended.vercel.app/api?username=jain44&show_icons=true&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jain44&layout=compact&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" width="35%" />
 
 <img src="https://streak-stats.demolab.com?user=jain44&theme=nord&border=38BDF8&ring=38BDF8&fire=38BDF8" width="70%" />
 
@@ -130,7 +130,7 @@ LLM-powered platform for business diagnostics, simulations, and automated report
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jain44&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=jain44&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ### 📈 Contribution Activity
