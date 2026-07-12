@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=200&section=header&text=Jainam%20Jain&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Information%20Technology%20Student%20and%20Full%20Stack%20AI%20ML%20Developer&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=200&section=header&text=Jainam%20Jain&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI+and+ML+solutions...;Full+Stack+Developer;Legal+Tech%2C+Fintech%2C+Culture+Apps" alt="Typing SVG" />
@@ -17,9 +17,9 @@
 
 <br/>
 
-**B.Tech IT (CGPA 9.92) &nbsp;•&nbsp; AI Specialization &nbsp;•&nbsp; 11 Shipped Projects &nbsp;•&nbsp; Full Stack + AI/ML**
+🎓 B.Tech Information Technology (CGPA 9.92) + AI Specialization — Thakur College of Engineering and Technology &nbsp;•&nbsp; 11 shipped projects
 
-🎓 Thakur College of Engineering and Technology — B.Tech Information Technology, Minor in Artificial Intelligence
+📌 Looking for SDE / Full-Stack / AI-ML internship and entry-level roles — available immediately
 
 </div>
 
@@ -30,12 +30,7 @@
 ```typescript
 const jainam = {
   title: "Information Technology Student",
-  stack: [
-    "Python", "C/C++", "Java", "JavaScript",
-    "HTML/CSS", "React", "PostgreSQL", "LLM APIs",
-    "NumPy", "Pandas", "Git"
-  ],
-  launchedProjects: 11,
+  focus: ["AI/ML", "Full-Stack Development", "Legal-Tech", "Fintech"],
   certifications: [
     "Data Vision Boot Camp",
     "AI for Entrepreneurs (Data Analysis)",
@@ -44,8 +39,7 @@ const jainam = {
     "Google Analytics",
     "Spoken Tutorial Project — IIT Bombay"
   ],
-  status: "Full Stack Intern @ The Developers Arena",
-  openTo: ["Full Stack Development", "AI/ML Engineering", "Internships"]
+  status: "Full Stack Intern @ The Developers Arena"
 };
 ```
 
