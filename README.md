@@ -15,6 +15,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jain44&color=38BDF8&style=flat-square&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/jain44?style=flat-square&color=38BDF8&label=Followers)
 
+<br/>
+
+**B.Tech IT (CGPA 9.92) &nbsp;•&nbsp; AI Specialization &nbsp;•&nbsp; 11 Shipped Projects &nbsp;•&nbsp; Full Stack + AI/ML**
+
+🎓 Thakur College of Engineering and Technology — B.Tech Information Technology, Minor in Artificial Intelligence
+
 </div>
 
 <br/>
@@ -42,6 +48,17 @@ const jainam = {
   openTo: ["Full Stack Development", "AI/ML Engineering", "Internships"]
 };
 ```
+
+<br/>
+
+## 🏅 Achievements & Recognition
+
+- 🏆 Finalist — Saavishkar 2026 Hackathon
+- 🥇 Ranked 19th nationally — NL Mathematics Olympiad (NLMO)
+- 📊 6th position — Data Vision Competition
+- 📄 Presented research paper at Multicon 2025
+- 🤾 Represented Maharashtra at national level in Handball
+- 🎓 Elected Class Representative, IT Department — TCET
 
 <br/>
 
@@ -126,16 +143,6 @@ LLM-powered platform for business diagnostics, simulations, and automated report
 <img src="https://streak-stats.demolab.com?user=jain44&theme=nord&border=38BDF8&ring=38BDF8&fire=38BDF8" width="70%" />
 
 </div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=jain44&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jain44&theme=react-dark&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" width="100%" />
 
 <br/>
 
