@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=200&section=header&text=Jainam%20Jain&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI+and+ML+solutions...;Full+Stack+Developer;Legal+Tech%2C+Fintech%2C+Culture+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=10%2B+shipped+projects+and+counting;Legal+Tech%2C+Fintech%2C+Culture+Apps;Turning+ideas+into+shipped+code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 
 <br/>
 
-🎓 B.Tech Information Technology (CGPA 9.92) + AI Specialization — Thakur College of Engineering and Technology &nbsp;•&nbsp; 11 shipped projects
+🎓 B.Tech Information Technology (CGPA 9.92) + AI Specialization — Thakur College of Engineering and Technology &nbsp;•&nbsp; 10+ shipped projects
 
 📌 Looking for SDE / Full-Stack / AI-ML internship and entry-level roles — available immediately
 
