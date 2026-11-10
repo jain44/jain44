@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=200&section=header&text=Jainam%20Jain&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%26%20GenAI%20Developer%20%7C%20AI-ML%20Engineer&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=200&section=header&text=Jainam%20Jain&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20and%20GenAI%20Developer%20%7C%20AI-ML%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+%26+GenAI+Developer;Autonomous+AI+Agents+%7C+LangGraph+%7C+Next.js;10%2B+Production+Systems+Shipped;9.92+CGPA+%7C+TCET+Mumbai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+and+GenAI+Developer;Autonomous+AI+Agents+|+LangGraph+|+Next.js;10++Production+Systems+Shipped;9.92+CGPA+|+TCET+Mumbai" alt="Typing SVG" />
 </a>
 
 <br/>
