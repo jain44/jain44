@@ -161,19 +161,6 @@ Modern interactive educational web platform dedicated to sharing Jain philosophi
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=jain44&show_icons=true&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jain44&layout=compact&theme=nord&border_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" width="35%" />
-
-<img src="https://streak-stats.demolab.com?user=jain44&theme=nord&border=38BDF8&ring=38BDF8&fire=38BDF8" width="70%" />
-
-</div>
-
-<br/>
-
 ## 🔗 Connect With Me
 
 <div align="center">
